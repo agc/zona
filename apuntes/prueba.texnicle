@@ -81,9 +81,9 @@
     </object>
     <object type="UISETTINGS" id="z103">
         <attribute name="pdfviewscrollrect" type="string">{{0, 0}, {382, 493}}</attribute>
-        <attribute name="selectedcontrolstab" type="int16">0</attribute>
+        <attribute name="selectedcontrolstab" type="int16">6</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
-        <attribute name="editorwidth" type="float">1506</attribute>
+        <attribute name="editorwidth" type="float">1286</attribute>
         <attribute name="controlswidth" type="float">220</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z102"></relationship>
     </object>
@@ -92,7 +92,7 @@
         <attribute name="openconsole" type="bool">0</attribute>
         <attribute name="ncompile" type="int16">3</attribute>
         <attribute name="language" type="string">es</attribute>
-        <attribute name="enginename" type="string">pdflatex</attribute>
+        <attribute name="enginename" type="string">xelatex</attribute>
         <attribute name="dops2pdf" type="bool">1</attribute>
         <attribute name="dobibtex" type="bool">1</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z102"></relationship>
@@ -108,12 +108,12 @@
     </object>
     <object type="TEXFILE" id="z106">
         <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {1454, 827}}</attribute>
-        <attribute name="lasteditdate" type="date">384714728.91447001695632934570</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {1234, 827}}</attribute>
+        <attribute name="lasteditdate" type="date">384714784.55937600135803222656</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">384714729.40513801574707031250</attribute>
+        <attribute name="fileloaddate" type="date">384714786.31623101234436035156</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{1488, 0}</attribute>
+        <attribute name="cursor" type="string">{1514, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">prueba_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
