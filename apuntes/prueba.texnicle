@@ -80,10 +80,10 @@
         <relationship name="items" type="0/0" destination="PROJECTITEM" idrefs="z105 z106 z107"></relationship>
     </object>
     <object type="UISETTINGS" id="z103">
-        <attribute name="pdfviewscrollrect" type="string">{{0, 0}, {465, 600}}</attribute>
+        <attribute name="pdfviewscrollrect" type="string">{{0, 0}, {382, 493}}</attribute>
         <attribute name="selectedcontrolstab" type="int16">0</attribute>
         <attribute name="maxoutlinedepth" type="int16">7</attribute>
-        <attribute name="editorwidth" type="float">1423</attribute>
+        <attribute name="editorwidth" type="float">1506</attribute>
         <attribute name="controlswidth" type="float">220</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z102"></relationship>
     </object>
@@ -108,12 +108,12 @@
     </object>
     <object type="TEXFILE" id="z106">
         <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {1371, 827}}</attribute>
-        <attribute name="lasteditdate" type="date">384714552.72151899337768554688</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {1454, 827}}</attribute>
+        <attribute name="lasteditdate" type="date">384714582.29389697313308715820</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">384714553.21059501171112060547</attribute>
+        <attribute name="fileloaddate" type="date">384714583.23743200302124023438</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{1115, 0}</attribute>
+        <attribute name="cursor" type="string">{1190, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">prueba_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
