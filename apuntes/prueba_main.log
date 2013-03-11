@@ -705,13 +705,7 @@ You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 ./prueba_main.tex:44: Too many }'s.
-l.44 ...ex se incluye  \verb{\usepackage{fontspec}
-                                                  }
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-./prueba_main.tex:44: Too many }'s.
-l.44 ...x se incluye  \verb{\usepackage{fontspec}}
+l.44 ...se incluye  \verb{\usepackage\{fontspec\}}
                                                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
