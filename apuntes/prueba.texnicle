@@ -92,7 +92,7 @@
         <attribute name="openconsole" type="bool">0</attribute>
         <attribute name="ncompile" type="int16">3</attribute>
         <attribute name="language" type="string">es</attribute>
-        <attribute name="enginename" type="string">context</attribute>
+        <attribute name="enginename" type="string">pdflatex</attribute>
         <attribute name="dops2pdf" type="bool">1</attribute>
         <attribute name="dobibtex" type="bool">1</attribute>
         <relationship name="project" type="1/1" destination="PROJECT" idrefs="z102"></relationship>
@@ -108,10 +108,10 @@
     </object>
     <object type="TEXFILE" id="z106">
         <attribute name="wasopen" type="bool">0</attribute>
-        <attribute name="visiblerect" type="string">{{0, 0}, {481, 777}}</attribute>
+        <attribute name="visiblerect" type="string">{{0, 0}, {481, 632}}</attribute>
         <attribute name="lasteditdate" type="date">384713750.20352202653884887695</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">384713798.22475397586822509766</attribute>
+        <attribute name="fileloaddate" type="date">384713838.56775498390197753906</attribute>
         <attribute name="extension" type="string">tex</attribute>
         <attribute name="cursor" type="string">{739, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
