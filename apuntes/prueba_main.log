@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.23)  11 MAR 2013 18:14
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2013.1.23)  11 MAR 2013 18:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -705,7 +705,13 @@ You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
 ./prueba_main.tex:44: Too many }'s.
-l.44 ...luye  \verb{\usepackage[utf8]\{inputenc\}}
+l.44 ...ex se incluye  \verb{\usepackage{fontspec}
+                                                  }
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./prueba_main.tex:44: Too many }'s.
+l.44 ...x se incluye  \verb{\usepackage{fontspec}}
                                                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
