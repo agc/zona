@@ -692,8 +692,17 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 37.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
 
+./prueba_main.tex:43: Undefined control sequence.
+l.43 Si se usa \La
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
 [1
 
 ]
