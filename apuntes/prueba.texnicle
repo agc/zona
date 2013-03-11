@@ -109,11 +109,11 @@
     <object type="TEXFILE" id="z106">
         <attribute name="wasopen" type="bool">0</attribute>
         <attribute name="visiblerect" type="string">{{0, 0}, {1454, 827}}</attribute>
-        <attribute name="lasteditdate" type="date">384714684.14207601547241210938</attribute>
+        <attribute name="lasteditdate" type="date">384714685.59742897748947143555</attribute>
         <attribute name="istext" type="bool">1</attribute>
-        <attribute name="fileloaddate" type="date">384714684.27825397253036499023</attribute>
+        <attribute name="fileloaddate" type="date">384714686.25055301189422607422</attribute>
         <attribute name="extension" type="string">tex</attribute>
-        <attribute name="cursor" type="string">{1361, 0}</attribute>
+        <attribute name="cursor" type="string">{1362, 0}</attribute>
         <attribute name="sortindex" type="int32">0</attribute>
         <attribute name="name" type="string">prueba_main.tex</attribute>
         <attribute name="isexpanded" type="bool">0</attribute>
